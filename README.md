@@ -4,4 +4,5 @@
 - 	![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ### my projects
 - [ClassWorkCPP](https://github.com/KirillFedotenko/ClassWorkCPP/edit/main/README.md) - классные работы по С++
+- [HomeWork](https://github.com/KirillFedotenko/HomeWorkCPP) - домашние работы по С++
   
